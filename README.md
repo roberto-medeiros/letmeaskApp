@@ -1,4 +1,7 @@
-## 🗳 [ Letmeask](https://letmeask-app-bbee9.web.app)
+>
+  <img alt="Letmeask" src="https://raw.githubusercontent.com/roberto-medeiros/letmeaskApp/8d3d7c3e55a75a8bf5847d7fdc8e2176b5b387e1/src/assets/images/logo.svg" width="160px">
+
+[www.letmeask.com.br](https://letmeask-app-bbee9.web.app)
 <br/>
 
 ## 🧪 Tecnologias
